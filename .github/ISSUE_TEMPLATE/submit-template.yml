@@ -1,0 +1,52 @@
+name: Submit an email template
+description: Propose a new email template for trade show outreach
+title: "Add: [Template Name]"
+labels: ["submission"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Pre-Show
+        - Onsite
+        - Post-Show
+        - LinkedIn
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: template-name
+    attributes:
+      label: Template name
+      placeholder: e.g., "Speaker introduction request"
+    validations:
+      required: true
+  - type: textarea
+    id: scenario
+    attributes:
+      label: When to use
+      placeholder: Describe the scenario where this template is useful
+    validations:
+      required: true
+  - type: textarea
+    id: subject-lines
+    attributes:
+      label: Subject line options
+      placeholder: |
+        1. Subject line 1
+        2. Subject line 2
+    validations:
+      required: true
+  - type: textarea
+    id: email-body
+    attributes:
+      label: Email body
+      placeholder: The full email text with [Variable] placeholders
+    validations:
+      required: true
+  - type: textarea
+    id: tips
+    attributes:
+      label: Tips for using this template
+      placeholder: Any advice on timing, personalization, or follow-up
