@@ -74,6 +74,13 @@
 
 [Lensmor](https://www.lensmor.com/) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors, and generate qualified leads before the event starts.
 
+## More Open Source from Lensmor
+
+- [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) — Curated list of 100+ trade shows across 15 industries
+- [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
+- [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B trade show ROI playbook
+- [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) — Map of 80+ tools powering the event industry
+
 ## Contributing
 
 Have a template that works well? Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
