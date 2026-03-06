@@ -43,6 +43,9 @@
 | [Mutual Connection](templates/pre-show/03-mutual-connection.md) | Warm intro through a shared contact |
 | [Content Share](templates/pre-show/04-content-share.md) | Sharing valuable content to build trust before asking for a meeting |
 | [Pre-Show Reminder](templates/pre-show/05-reminder.md) | Reminder 1 week before the event |
+| [Customer Invite](templates/pre-show/06-customer-invite.md) | Inviting existing customers to visit your booth |
+| [VIP Event Invite](templates/pre-show/07-vip-event-invite.md) | Inviting VIPs to an exclusive off-site dinner/party |
+| [Press & Media Pitch](templates/pre-show/08-press-media.md) | Pitching a story to journalists attending the show |
 
 ### Onsite (During the Event)
 
@@ -62,6 +65,16 @@
 | [No Response Follow-Up](templates/post-show/04-no-response-followup.md) | Second touch when the first email gets no reply |
 | [Long-Term Nurture](templates/post-show/05-long-term-nurture.md) | Stay in touch when timing isn't right yet |
 | [Feedback Request](templates/post-show/06-feedback-request.md) | Ask for feedback from partners or organizers |
+| [The Breakup Email](templates/post-show/07-the-breakup.md) | Final attempt to engage when a prospect goes dark |
+| [Competitor Mention](templates/post-show/08-competitor-mention.md) | Pitching against a competitor tool you spotted them using |
+| [Scanned Badge, No Convo](templates/post-show/09-scanned-badge-no-convo.md) | Following up on a badge scan without specific notes |
+
+### Event Organizers & Speaking
+
+| Template | Scenario |
+|:---|:---|
+| [Speaker Pitch](templates/organizer/01-speaker-pitch.md) | Pitching a session or panel for next year's event |
+| [Sponsorship Inquiry](templates/organizer/02-sponsorship-inquiry.md) | Asking for the prospectus and early-bird pricing |
 
 ### LinkedIn Messages
 
