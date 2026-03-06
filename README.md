@@ -24,7 +24,16 @@
 
 ## Templates
 
-### Cold Outreach & Lead Generationnn| Template | Scenario |n|:---|:---|n| [Referral: Finding Right Person](templates/referral/01-finding-right-person.md) | Asking a contact to direct you to the decision-maker |n| [Referral: Value Prop Focus](templates/referral/02-value-prop-focus.md) | Using a case study to get referred to the right person |n| [Referral: Research-Based](templates/referral/03-research-based.md) | Using specific company research to get a referral |n| [Direct Sales: First Touch](templates/direct-sales/01-first-touch.md) | Direct outreach to a decision-maker before a show |n| [Value-Add: Resource Share](templates/value-add/01-resource-share.md) | Providing valuable content before making an ask |nn
+### Cold Outreach & Lead Generation
+
+| Template | Scenario |
+|:---|:---|
+| [Referral: Finding Right Person](templates/referral/01-finding-right-person.md) | Asking a contact to direct you to the decision-maker |
+| [Referral: Value Prop Focus](templates/referral/02-value-prop-focus.md) | Using a case study to get referred to the right person |
+| [Referral: Research-Based](templates/referral/03-research-based.md) | Using specific company research to get a referral |
+| [Direct Sales: First Touch](templates/direct-sales/01-first-touch.md) | Direct outreach to a decision-maker before a show |
+| [Value-Add: Resource Share](templates/value-add/01-resource-share.md) | Providing valuable content before making an ask |
+
 ### Pre-Show (Before the Event)
 
 | Template | Scenario |
