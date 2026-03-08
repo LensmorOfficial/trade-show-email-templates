@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.lensmor.com/">
+  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=trade-show-email-templates">
     <img src="https://raw.githubusercontent.com/LensmorOfficial/.github/main/profile/assets/banner.png" alt="Lensmor" width="600">
   </a>
 </p>
@@ -91,17 +91,17 @@
 - **One CTA per email.** Don't ask for a meeting, a demo, and feedback in the same email.
 - **A/B test subject lines.** Try 2-3 variations and track which gets more opens.
 - **Follow up, but don't spam.** 2-3 follow-ups max. Space them 3-5 business days apart.
-- **Track everything.** Use your CRM or [trade show lead capture tool](https://www.lensmor.com/blog/trade-show-lead-capture) or email tool to measure open rates, reply rates, and meetings booked.
+- **Track everything.** Use your CRM or [trade show lead capture tool](https://www.lensmor.com/blog/trade-show-lead-capture?utm_source=github&utm_medium=readme&utm_campaign=trade-show-email-templates) or email tool to measure open rates, reply rates, and meetings booked.
 
 ## About Lensmor
 
-[Lensmor](https://www.lensmor.com/) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors (uncovering [hidden competitors](https://www.lensmor.com/blog/hidden-competitors-trade-shows)), and generate qualified leads before the event starts.
+[Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=trade-show-email-templates) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors (uncovering [hidden competitors](https://www.lensmor.com/blog/hidden-competitors-trade-shows?utm_source=github&utm_medium=readme&utm_campaign=trade-show-email-templates)), and generate qualified leads before the event starts.
 
 ## More Open Source from Lensmor
 
 - [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) — Curated list of 100+ trade shows across 15 industries
 - [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
-- [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B [trade show ROI playbook](https://www.lensmor.com/blog/pre-show-competitor-analysis-template)
+- [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B [trade show ROI playbook](https://www.lensmor.com/blog/pre-show-competitor-analysis-template?utm_source=github&utm_medium=readme&utm_campaign=trade-show-email-templates)
 - [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) — Map of 80+ tools powering the event industry
 
 ## Contributing
