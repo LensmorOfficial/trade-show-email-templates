@@ -10,6 +10,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/LensmorOfficial/trade-show-email-templates?style=flat)](https://github.com/LensmorOfficial/trade-show-email-templates/commits/main)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+**If you find these templates useful, please star this repo — it helps others discover them.**
+
 > Ready-to-use email templates for every stage of trade show outreach — pre-show invitations, onsite follow-ups, and post-show conversion sequences.
 
 **70% of trade show leads are never followed up.** These templates help B2B sales and marketing teams systematically engage prospects before, during, and after every event.
@@ -102,6 +104,7 @@
 - [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) — Curated list of 100+ trade shows across 15 industries
 - [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
 - [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B [trade show ROI playbook](https://www.lensmor.com/blog/pre-show-competitor-analysis-template?utm_source=github&utm_medium=readme&utm_campaign=trade-show-email-templates)
+- [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) — AI-powered Claude Code skills for trade show automation
 - [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) — Map of 80+ tools powering the event industry
 
 ## Contributing
