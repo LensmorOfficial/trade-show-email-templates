@@ -14,6 +14,8 @@
 
 > Ready-to-use email templates for every stage of trade show outreach — pre-show invitations, onsite follow-ups, and post-show conversion sequences.
 
+**29 templates.** For B2B sales reps, event marketers, and SDRs attending trade shows.
+
 **70% of trade show leads are never followed up.** These templates help B2B sales and marketing teams systematically engage prospects before, during, and after every event.
 
 ## How to Use
