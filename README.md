@@ -109,6 +109,7 @@
 - [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
 - [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B [trade show ROI playbook](https://www.lensmor.com/blog/how-to-collect-leads?utm_source=github&utm_medium=readme&utm_campaign=trade-show-email-templates)
 - [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) — AI-powered Claude Code skills for trade show automation
+- [trade-show-linkedin-templates](https://github.com/LensmorOfficial/trade-show-linkedin-templates) — 30+ LinkedIn message templates for pre-show outreach and post-show follow-ups
 - [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) — Map of 80+ tools powering the event industry
 
 ## Contributing
